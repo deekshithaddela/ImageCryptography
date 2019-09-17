@@ -1,2 +1,2 @@
 # ImageCryptography
-encryption and decryption of image using poly-alphbetic cipher
+encryption & decryption of image using poly-alphbetic cipher
